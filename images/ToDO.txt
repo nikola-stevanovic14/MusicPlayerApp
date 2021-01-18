@@ -1,0 +1,13 @@
+ThumbIcons:
+
+     Place the attribution on the app's credits page and on the description page on the app store. 
+     https://support.flaticon.com/hc/en-us/articles/207248209-How-I-must-insert-the-attribution-
+
+     https://www.flaticon.com/free-icon/play-button_1177938?term=music+player&page=3&position=55&related_id=1177938&origin=search
+     https://www.flaticon.com/free-icon/pause_1177576?term=pause&page=1&position=2&related_id=1177576&origin=style
+     https://www.flaticon.com/free-icon/left-arrow_1177513?term=previous&page=1&position=1&related_id=1177513&origin=style
+     https://www.flaticon.com/free-icon/right-arrow_1177481?term=right&page=1&position=5&related_id=1177481&origin=style
+     
+
+
+

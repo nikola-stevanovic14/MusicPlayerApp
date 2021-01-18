@@ -1,0 +1,16 @@
+{
+     "views" : {
+          "viewsFolderLocation" : "src/views"
+     },
+     "models" :{
+          "modelsFolderLocation" : "src/models"
+     },
+     "images" :{
+          "imagesFileLocation" : "images"
+     },
+     "windowsApi" :{
+          "windowsApiFolderLocation" : "src/windowsApi",
+          "windowsApiRouterLocation" : "src/windowsApi/windowsApiRouter",
+          "mainWindowApiLocation" : "src/windowsApi/mainWindowApi"
+     }
+}

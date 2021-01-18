@@ -1,0 +1,17 @@
+
+{
+     "mainWindow" :{
+          "key" : "mainWindow",
+          "properties" : {
+               "width" :1800,
+               "height" : 700,
+               "webPreferences" : {
+                    "devTools":true,
+                    "nodeIntegration": true
+                  }
+          },
+          "windowViewFile" : "index.html",
+          "openDevTools" : true
+     }
+
+}

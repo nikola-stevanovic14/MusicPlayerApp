@@ -8,6 +8,7 @@ ThumbIcons:
      https://www.flaticon.com/free-icon/left-arrow_1177513?term=previous&page=1&position=1&related_id=1177513&origin=style
      https://www.flaticon.com/free-icon/right-arrow_1177481?term=right&page=1&position=5&related_id=1177481&origin=style
      
+     https://www.flaticon.com/free-icon/wave_758751?term=music&related_id=758751
 
 
 

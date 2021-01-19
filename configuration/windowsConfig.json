@@ -7,11 +7,13 @@
                "height" : 700,
                "webPreferences" : {
                     "devTools":true,
-                    "nodeIntegration": true
-                  }
+                    "nodeIntegration": true,
+                    "contextIsolation": true
+               }
           },
           "windowViewFile" : "index.html",
-          "openDevTools" : true
+          "openDevTools" : true,
+          "iconPath": "wave-transparent.png"
      }
 
 }
